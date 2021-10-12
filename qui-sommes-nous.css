@@ -1,0 +1,64 @@
+.header {
+  overflow: hidden;
+  background-color: #336699;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+  border-radius: 5px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.header a:hover {
+  background-color: deepskyblue;
+  color: black;
+}
+
+.header-right a{
+  float: right;
+  color: white;
+}
+
+.textemilieu 
+	h1
+	{
+			font-size: 25px;
+			font-weight: bold;
+			color: #336699;	
+			text-align: center;
+
+	}
+			
+	p
+	{
+		text-align: center;
+		padding: 10%;
+		margin-top: -10%;
+		
+		}
+		
+.logoQSN1
+{
+	margin-left: 10%;
+	margin-top: -10%;
+	height: 30%;
+	width: 30%
+	
+}
+img{
+	height: 10%;
+	width: 10%;
+}

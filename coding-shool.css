@@ -1,0 +1,93 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+ text-align: center;
+  font-family: verdana;
+  font-size: 15px;
+}
+.button {
+         background-color: white;
+         border:15;
+         color: blue;
+         padding: 10px 14px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 10px;
+		 font-family:verdana;
+         margin: 15px 15px;
+         cursor: pointer;
+         }
+.M {
+	
+	font-size:50px;
+	border-width:4px;
+	border-style:solid;
+	border-color:#275fa0;
+	border-top-left-radius:15px;
+	border:30px;
+}
+video {
+  width: 50%;
+  height: auto;
+  
+}
+.M2 {
+	text-align:left
+	font-family:verdana;
+	font-size:15px;
+}
+.M4 {
+	texte-aligne:left-side
+	font-family:verdana;
+	font-size:9px;
+}
+.div {
+border: 1px solid blue; paddin:5px;
+ font-size:9px;
+  text-align: left;
+   letter-spacing: 2px;
+}
+
+
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+  border-radius: 5px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.header a:hover {
+  background-color: deepskyblue;
+  color: black;
+}
+
+.header-right {
+  float: right;
+}
+.logo {
+	height:9%;
+	width: 9%;
+}
+
+	

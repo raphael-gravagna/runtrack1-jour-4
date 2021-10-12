@@ -1,0 +1,129 @@
+
+body{
+    position: relative;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+  
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+    border-radius: 5px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    background-color: deepskyblue;
+    color: black;
+  }
+  
+  .header-right {
+    float: right;
+  }
+  
+/*IMAGE ACCEUIL*/
+
+.section_photo{
+    background-color: #336699;
+    height: 610px;
+}
+
+
+#image-acceuil{
+    position: relative; width: 595px; 
+    margin-left: 60%; margin-top: 10px;
+}
+
+.text-haut-gauche{
+    margin-left: 200px; margin-top: -550px; width: 300px;
+    font-size: 25px; color: ivory;
+}
+
+/*Fenêtre Web coding*/
+
+.tag1{
+    position: absolute;
+    font-size: 20px; margin-top: 100px; 
+}
+
+.tag1 p{
+    color:#336699 ; width: 300px; margin-left: 120px;
+}
+
+.tag1 h1{
+    color:#336699 ; margin-left: 150px;
+}
+
+/*fenêtre intelligences artificielles*/
+
+.tag2{
+    position: absolute;
+    font-size: 20px; margin-top: 100px; width: 300px ; margin-left: -150px ;
+}
+
+
+.tag2 h1{
+    color: #336699 ;
+}
+
+.tag2 p {
+    color: #336699
+}
+
+
+.recruter{
+    color: #336699;
+}
+
+.formation{
+    color: #336699;
+}
+
+.accélerez{
+    color: #336699;
+}
+
+.nav{
+    position: absolute;
+    background-color: orange; width:100%; height: 600px; 
+}
+
+.nav{
+    color: ivory;
+}
+
+.recruter{
+    position: relative;
+    width: 800px; height: 200px; margin-left: 300px; 
+}
+
+.accélerez{
+    width: 800px; height: 200px; margin-left: 300px;
+}
+
+.formation{
+    width: 800px; height: 200px; margin-left: 300px;
+}
+
+footer{
+   background-color:#C40870; 
+   width:100%; 
+   height: 600px; 
+   margin-bottom: 100px;
+}
+  footer p {
+    background-color:#C40870
+  }
